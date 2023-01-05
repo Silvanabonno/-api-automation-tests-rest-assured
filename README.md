@@ -1,2 +1,4 @@
-# -api-automation-tests-rest-assured
-Projeto de automação de testes com RestAssured. 
+# Sobre
+## Projeto de automação de testes com RestAssured 
+
+Este projeto teve como objetivo realizar testes de API utilizando a biblioteca Rest Assured em conjunto com o Maven e o IntelliJ como ferramentas. Além disso, foi utilizado o Allure Framework para a geração de relatórios de testes e uma collection do Postman foi criada a partir do Restful-booker.
